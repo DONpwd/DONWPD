@@ -1,8 +1,6 @@
 body {
-    display: flex;
     align-items: center;
     margin: 0;
-    background-size: cover;
     background-position: center;
     box-sizing: border-box;
     justify-content: center;
